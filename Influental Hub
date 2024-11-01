@@ -324,14 +324,7 @@ punchTab.newToggle(
     end
 )
 
---See Kills Button
-punchTab.newButton(
-    "See Kills GUI",
-    "See your kills in that gui",
-    function()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/ProjectV1ontop/ProjectV1/main/ProjectV1%20SeeKills"))()
-    end
-)
+
 
 
 
